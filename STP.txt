@@ -31,6 +31,6 @@ E0/1:DP E0/2:DP
 
 Switch2のF0/1がRPなので向かいのSwitch1のF0/1はDP
 
-Switch2-Switch4間にはなにも役割がないので、ブリッジプライオリティが小さいSwitch4のE0/1はRP
+Switch2-Switch4間にはなにも役割がないので、ブリッジプライオリティが小さいSwitch4のE0/1はDP
 
 残っているSwitch2のF0/2はBP
