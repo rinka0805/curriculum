@@ -21,7 +21,7 @@ Switch2-Switch4-Switch3→100+100=200
 よってSwitch2のRPはF0/1
 
 Switch4
-E0/1:RP E0/2:RP
+E0/1:DP E0/2:RP
 Switch4-Switch3→100
 Switch4-Switch2-Switch1- Switch3→100+19+100=219
 よってSwitch4のRPはE0/2
