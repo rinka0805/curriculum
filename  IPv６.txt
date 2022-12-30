@@ -1,8 +1,0 @@
-
-
-(1)MACｱﾄﾞﾚｽ:AAAA.AAAA.AAAA
-ｲﾝﾀｰﾌｪｲｽID:A8 AA AA FF FE AA AA AA
-(2) MACｱﾄﾞﾚｽ:9876.5432.10FE
-ｲﾝﾀｰﾌｪｲｽID:9A 76 54 FF FE 32 10 FE
-(3) MACｱﾄﾞﾚｽ: FFFF.FFFF.FFFF
-ｲﾝﾀｰﾌｪｲｽID:FD FF FF FF FE FF FF FF
